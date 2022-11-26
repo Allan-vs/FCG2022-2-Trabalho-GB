@@ -1,0 +1,17 @@
+7
+38 38
+../textures/tiles/vazio.png
+../textures/tiles/moeda.png
+../textures/tiles/terra.png
+../textures/tiles/lava.png
+../textures/tiles/aguarasa.png
+../textures/tiles/aguaprofunda.png
+../textures/tiles/ocupado.png
+7 7
+0	0	0	0	1	0	0
+0	0	0	0	0	0	0
+0	1	0	0	0	0	0
+0	0	0	0	1	0	0
+0	0	1	0	0	0	0
+0	0	0	0	0	0	0
+0	0	0	0	0	0	0
